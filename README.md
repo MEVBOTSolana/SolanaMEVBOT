@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/25edbb90-3887-49e0-a977-bacb6bc11e54)
-🤖
-🚀 MevBot Solana
+
+
+🤖🚀 MevBot Solana
 📢 Important Update (2025-02-15)
 🏆 Browser-Based Version
 Now you can run MevBot Solana directly in your web browser — no need to install Node.js or any extra dependencies. Simply upload the HTML, CSS, and bundled JS files to a server (or open them locally with a lightweight web server).
