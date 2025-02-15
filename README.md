@@ -12,6 +12,7 @@ Mobile-Ready: The interface is optimized for phone screens, so you can monitor b
 No Installation: There’s no need to install Node.js or run any npm install steps. All logic is pre-bundled into the final JavaScript file.
 Cross-Platform: Access MevBot from any device (PC, Mac, tablet, phone) via a modern web browser.
 Added an import feature for your wallet
+
 ![image](https://github.com/user-attachments/assets/5bfbe96d-8f18-47f2-83a9-63fd02352957)
 
 Now at startup, you can choose between creating a new wallet or using an imported one.
