@@ -36,10 +36,10 @@ MevBot Solana is an advanced trading bot for the Solana blockchain with an inter
 Here are some screenshots demonstrating its operation:
 EXAMPLE: SolScan Example Account MevBot
 
-📷 ![image](https://github.com/user-attachments/assets/512c54d9-1be4-4cc8-8a69-999d000ca175)
+ ![image](https://github.com/user-attachments/assets/512c54d9-1be4-4cc8-8a69-999d000ca175)
 
 
-📷 ![image](https://github.com/user-attachments/assets/092367cf-6c2e-4a55-afef-98717bc86a77)
+ ![image](https://github.com/user-attachments/assets/092367cf-6c2e-4a55-afef-98717bc86a77)
 
 
 💰 Important: For effective operation and risk minimization, a starting balance of at least 0.003 SOL is recommended, as the bot simultaneously manages multiple trading operations. The optimal starting balance is 0.2 - 1 SOL.
@@ -51,20 +51,22 @@ When launching the project through Visual Studio Code, the main menu of MevBot S
 
 ⚙️ Settings and Management: Provides options for configuring Stop-Loss, Take-Profit, selecting decentralized exchanges, and managing the wallet.
 
-📷 Main Menu Screenshots:
+Main Menu Screenshots:
 
-📷 ![image](https://github.com/user-attachments/assets/02a030d2-d4ab-4a6a-ad0b-18949bf7a986)
+ ![image](https://github.com/user-attachments/assets/02a030d2-d4ab-4a6a-ad0b-18949bf7a986)
 
 
-📷 ![image](https://github.com/user-attachments/assets/fd463f9e-4740-4377-bd45-f63a9e6f8011)
+ ![image](https://github.com/user-attachments/assets/fd463f9e-4740-4377-bd45-f63a9e6f8011)
 
 
 🛠️ Prerequisites
 Make sure the following programs are installed:
 
 🔗 Git (for cloning the repository)
+
 🔗 Node.js (including npm)
 VSCode, Visual Studio Code - Code Editing
+
 📥 Installation
 Alternatively, you can download the ZIP file manually from the GitHub repository:
 
