@@ -9,6 +9,7 @@ Now you can run MevBot Solana directly in your web browser — no need to instal
 
 🤖Key Advantages
 Mobile-Ready: The interface is optimized for phone screens, so you can monitor balances, withdraw funds, and adjust settings on the go.
+
 No Installation: There’s no need to install Node.js or run any npm install steps. All logic is pre-bundled into the final JavaScript file.
 Cross-Platform: Access MevBot from any device (PC, Mac, tablet, phone) via a modern web browser.
 Added an import feature for your wallet
