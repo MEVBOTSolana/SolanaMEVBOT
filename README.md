@@ -88,7 +88,7 @@ cd path-to-your-project
 📦 Install Dependencies:
 Make sure Node.js is installed on your computer. If not, download it from Node.js.
 In the terminal or command prompt, enter the following command:
-npm install
+npm install or yarn install
 This command will install all dependencies listed in package.json.
 
 🚀 Launch the Application:
