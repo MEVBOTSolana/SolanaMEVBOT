@@ -81,7 +81,7 @@ Open Terminal (on macOS and Linux) or Command Prompt (CMD) on Windows.
 Navigate to the folder where you want to place the project:
 cd path-to-your-folder
 Clone the repository from GitHub:
-git clone https://github.com/MEVBOTSolana/SolanaMEVBOT.git
+git clone https://github.com/MEVBOTSolana/SolanaMEVBOT
 Navigate to the project folder:
 cd path-to-your-project
 
