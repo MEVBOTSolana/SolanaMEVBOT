@@ -4,9 +4,6 @@
 🚀 MevBot Solana
 📢 Important Update (2025-02-15)
 
-🏆 Browser-Based Version
-Now you can run MevBot Solana directly in your web browser — no need to install Node.js or any extra dependencies. Simply upload the HTML, CSS, and bundled JS files to a server (or open them locally with a lightweight web server).
-
 🤖Key Advantages
 Mobile-Ready: The interface is optimized for phone screens, so you can monitor balances, withdraw funds, and adjust settings on the go.
 
