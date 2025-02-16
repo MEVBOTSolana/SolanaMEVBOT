@@ -104,7 +104,7 @@ Open the terminal or command prompt.
 Navigate to the project directory:
 cd path-to-your-project
 Launch the application:
-node mev.js
+node SolanaMEV.js
 Tip: Use any convenient code editor, such as Visual Studio Code, Sublime Text, Atom, or another IDE.
 
 👜 Create a New MevBot Wallet:
