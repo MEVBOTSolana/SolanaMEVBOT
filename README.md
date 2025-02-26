@@ -3,7 +3,7 @@
 
 🚀 MevBot Solana
 
-📢 Important Update (2025-02-15)
+📢 Important Update (2025-02-26)
 
 🤖Key Advantages
 Mobile-Ready: The interface is optimized for phone screens, so you can monitor balances, withdraw funds, and adjust settings on the go.
