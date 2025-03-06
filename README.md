@@ -1,6 +1,6 @@
 🚀 SOL FLASH MEV-WICH BOT: IGNITE YOUR SOLANA TRADING REVOLUTION!
 
-![image](https://imgur.com/a/ouRwDfs)
+![Alt text](Screenshot_20250306_144526_Photos.jpg)
 
 📢 Important Update (2025-03-06)
 
