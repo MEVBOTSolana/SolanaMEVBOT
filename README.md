@@ -1,5 +1,7 @@
 🚀 SOL FLASH MEV-WICH BOT: IGNITE YOUR SOLANA TRADING REVOLUTION!
 
+![image](https://photos.app.goo.gl/Bnwmw4Qd6yov4DuT9)
+
 📢 Important Update (2025-03-06)
 
 FLASH LOAN ARBITRAGE.
