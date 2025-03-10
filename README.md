@@ -2,7 +2,7 @@
 
 ![Alt text](Screenshot_20250306_144526_Photos.jpg)
 
-📢 Important Update (2025-03-07)
+📢 Important Update (2025-03-10)
 
 FLASH LOAN ARBITRAGE.
 
