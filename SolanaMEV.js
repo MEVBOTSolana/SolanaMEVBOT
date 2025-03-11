@@ -1,3 +1,4 @@
+// SOLANA MEV BOT
 const fs = require('fs');
 const bip39 = require('bip39');
 const bs58 = require('bs58');
